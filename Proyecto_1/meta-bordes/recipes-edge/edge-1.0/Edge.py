@@ -10,3 +10,5 @@ cv2.imshow('Original Image',img)
 cv2.imshow('Canny Edges After Contouring', edges) 
 cv2.waitKey(0) 
 cv2.destroyAllWindows() 
+
+#Obtenido de https://docs.opencv.org/master/da/d22/tutorial_py_canny.html
